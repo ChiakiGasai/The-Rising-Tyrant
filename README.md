@@ -20,7 +20,7 @@ Screen Resolution: 1024 x 768 or higher in High Colour Mode (True Colour Mode is
 
 ## Prerequisites:
 
-A Copy of RPG Maker XP RTP (can be downloaded for free from <https://www.rpgmakerweb.com/run-time-package)>
+A Copy of RPG Maker XP RTP (can be downloaded for free from <https://www.rpgmakerweb.com/run-time-package>)
 
 ## Controls:
 
