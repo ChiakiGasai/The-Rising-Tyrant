@@ -1,0 +1,196 @@
+##############################
+#THE RISING TYRANT CHANGELOG!#
+##############################
+
+The rising tyrant Version 1.00:
+Yes we skipped all the way to version one.
+Title Screen has changed
+Added some last few minor features
+fixed some minor bugs
+
+The rising tyrant Version 0.14:
+Fixed a fight issue on the castle entrence
+Deleted all debug crystals (except for the character select)
+Fixed a typo on the entence to the evil castle
+Fixed a weather issue when leaving Spithington at the end of the game
+Added a average completion time (Accessible in the README.TXT document)
+Changed the ending scene 
+
+The rising tyrant Version 0.13:
+Removed all signs in game.
+Added in game ques on progression by pointing out what to do and where to go
+Fixed a bug where purchasing an assistant took all your money
+Fixed a bug where naming an assistant will only name the first assistant and not the one you got
+You no longer need to speak to the old man to trigger the boss fight with the soldier
+All debug builds no longer have the debug switch enabled by default. RPGXP users can press F9 and enable the debug switch
+New items have been added to the weapons and armour shop in little snoring to accomodate the assistant characters
+
+The rising tyrant Version 0.12:
+Added more trees in Greater Snoring
+Finished the secret
+Removed debug info in the portal room
+Added the final boss
+An alarm will go off when you enter the castle throuugh whatever means 
+The ending of the game has been added
+
+The rising tyrant Version 0.11b:
+Removed the save crystals at the entrence of the evil castle
+Finished the ice dungeon and started development on the final castle
+Added anti-cheat checks throughout the game. If one failes a fire alarm will sound and you will be botted back to the title screen
+
+The rising tyrant Version 0.11a:
+Fixed a bug at the inn in Spithington where the character will dissapear for a few seconds.
+Added the second boss (accessible from the fire dungeon)
+Added an assistant character (avliable from the inn at Spithington)
+Started development on the final section of the game
+
+The rising tyrant Version 0.11:
+Fixed a layering issue at the castle entence
+Fixed a layering issue at Spithington
+Fixed a layering issue at Little Snoring
+Removed the broken bridge at Great Snoring as it could be used to bypass the first boss
+Added a new puzzle (accessible from the fire dungeon)
+Known Issue: Changing the signs made it worse.
+The changelog can now be viewed on the standard notepad editor in Windows
+Fixed a consistency issue in the controlls screen at the start of the game 7
+
+The rising tyrant Version 0.10:
+This is the first Majour Release as I have reached a stage to showcase this game to the public ready before the deadline
+All signes have changed
+
+The rising tyrant Version 0.07d:
+All previous debug saves have been deleted and replaced with new ones.
+Added a temporary demo end in preperation for 0.10 Public Demo.
+The game is now set at running at 60FPS at the start. This can be changed on DEBUG versions back to 40FPS
+Slightly changed great snoring
+
+The rising tyrant Version 0.07c:
+Disabled the save option from the menu in the fire and ice dungeon.
+Added the events required to escape the battle for the battle escape crystal
+Added the evnts required to teleport the player back to Little Snoring
+Added a new Debug menu
+
+The rising tyrant Version 0.07b:
+Changed the default list of items that display SP to E to avoid confusion
+Modified Great Snoring to link to fire dungeon and ice dungeon
+Added Fire Dungeon Entrence (accessible from Great Snoring)
+Added Ice Dungeon Entrence (accessible from Great Snoring)
+Added Battle Escape Crystal (abliable from certian item shops)
+Added Town Escape Crystal (abliable from certian item shops)
+
+The rising tyrant Version 0.07a:
+Known Issue: The Boss fight is a little too easy
+The game is being tested to run at 60FPS. This is run after new game but resets when loading from a save
+Fixed an issue where the boss recovary only checked that you have enough retries not take one away aswell
+
+The rising tyrant Version 0.07:
+All previous debug saves have been deleted and replaced with new ones.
+Added the first boss fight
+Changed the Battle End music to the one that matches with the one on the prototype documentation
+Known Issue: Interacting with the signes from behined shows gravestones
+
+The rising tyrant Version 0.06d:
+Changed the placement of the Save Crystal in the inn at Spithington
+Finished development of Little Snoring Main town
+Added the inn (accessible from Little Snoring)
+Added the item shop (accessible from Little Snoring)
+Added the Weapon & Armor Shop (accessible from Little Snoring)
+Added the Debug Room (accessible from Little Snoring with debug set to on)
+
+The following towns have names:
+Starting Town --> Spithington
+The New Town --> Little Snoring
+The field next to the town --> Great Snoring
+
+The rising tyrant Version 0.06c:
+Added a title screen (replacing the default title screen in RPGXP)
+Added a logo
+Removed the local debug notice at the start of the game (the notice is in the title)
+
+The rising tyrant Version 0.06b:
+Added a sign outside the portal room in the 
+Started development on Field area 2 (Accessible from field area 1)
+Started development on the nearest town next to the field
+Added an area linking the town and field area two
+
+The rising tyrant Version 0.06a:
+Removed the goblin fight temporary due to the fight being impossible unless you escape
+Fixed a bug where using the campsite uses up two items instead of one
+Fixed a bug where using the portable save crystal does nothing
+
+The rising tyrant Version 0.06:
+Got the combat working.
+Added enermies into the first woods (ghosts)
+Added goblins into the first field
+Fixed some invisible walls (some still remain)
+Added a new item: Campsite (Will be avaliale from general shops that isn't in the inn)
+Added field area two (accessible from field area 1)
+Added essential pop up shop in field area two
+Changed the characters so that they get weapons, armor and a shield at the start with it already equipped 
+Changed the debug message to point to a new site where the game is stored (still for internal network only!) cloud.sakura.co.jp --> cloud.sakura.com
+N: Heading to cloud.sakura.co.jp in the internal network will send you to the Sakura UK Radio
+
+The rising tyrant Version 0.05d:
+Fixed the rain effect in the inn
+Added a check in the to see if you have enough funds (Players could origionally get in for free)
+Fixed a known issue from 0.05a regarding graphical glitches in the tunnel to the portal room
+Fixed a bug in the main due to adding an invisible wall in the Inn. You cannot go through half of the house
+Known issue: Invisisable walls now exists that may happen inside the starting town
+Given the player a weapon and armor at the start of the game (free of charge)
+
+The rising tyrant Version 0.05c:
+Redesigned the first field area
+Added the inn (accessible from the starting town)
+Added a new common-event (function) called inn-processing and does inn related stuff
+Added the inn bedrooms (accessible from purchasing a night at the inn)
+Added a shop in the inn
+
+The rising tyrant Version 0.05b:
+changed save access to use the save function in the menu when your on the field
+added BGM to the beach and the field
+added the game retry function for when you get defeated after a boss fight (only accessible from the test boss fight in the debug map)
+added retries at the start of the game (default is 10)
+
+The rising tyrant Version 0.05a:
+Redesigned the portal room to be able to actually go through into the protal device without no-clipping
+Fixed the issue where you can exit to the beach
+Stopped the game from freezing when entering the teleportation room
+Added a save point to the woods
+Added the beach (accessible from the portal room)
+Added the first area (accessible from the beach)
+Known Issue: The tunnel to portal room has graphical gliches
+
+The rising tyrant Version 0.05:
+Actially added a link from the woods to the teleportation room (I forgot to add anything to the event sheet)
+
+The rising tyrant Version 0.04:
+Changed the area after the opening scene to go to the bedroom
+Fixed the bug when leaving the house so you don't have to press ENTER
+Made the character selection more visually appealing
+Added the woods 1 (accessible from starting town)
+Added the first puzzle (can be completed in woods 1)
+
+The rising tyrant Version 0.03:
+Fixed a bug where you had to press ENTER to go upstairs into your room
+Changed the starting area after the opening scene to be the bedroom
+Made the rain more heavier
+Added a fade of the rain BGS when going inside the house
+
+The risisng tyrant Version 0.02:
+Fixed a text box bug
+Fixed the door placement
+Changed the starting area to make the exits of the map more noticable
+Added links to the evil castle from the starting town
+Added the players house and bedroom (Accessible from Starting Town)
+
+The rising tyrant Version 0.01:
+Fixed a bug where the cat (known as the start placeholder) appeares in the start menu listing the controls
+Added a local debug notice to the game (will be removed in Version: 1.00)
+Added the starting town (accessible from opening scene)
+Added the evil castle (accessible from starting castle)
+Added the opening scene
+
+The rising tyrant Version 0.00:
+Project started!
+Added a character select screen
+Added a Debug map (not intended for final release, accessible from any debug crystal)
